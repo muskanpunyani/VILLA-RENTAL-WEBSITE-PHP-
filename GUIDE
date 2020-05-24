@@ -1,0 +1,2 @@
+If you are using local host(eg. XAMPP) create a folder inside xampp->htdocs-><FOLDER NAME> and insert these php files into that folder.
+Here i have created two databases,one for collecting queries and one for collecting mails regarding subscription.
